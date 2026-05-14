@@ -1,0 +1,37 @@
+{
+  "job_id": "api_0899bfbd10174716b86359dc",
+  "mode": "zip_split",
+  "file_url": "https://free-dl88.myalphadl.com/_HM8_Ly7q6ozRNAs34y30A/Tehran.S02E06.1080p.WEB.x265.RMT.AlphaDL.mkv",
+  "suggested_filename": "Tehran.S02E06.1080p.WEB.x265.RMT.AlphaDL.mkv",
+  "total_size_bytes": 387494386,
+  "created_at_utc": "2026-05-14T12:49:04.904240+00:00",
+  "zip_folder": "jobs/api_0899bfbd10174716b86359dc/zip",
+  "zip_main_file": "Tehran.S02E06.1080p.WEB.x265.RMT.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "Tehran.S02E06.1080p.WEB.x265.RMT.AlphaDL_split.z01",
+      "path": "jobs/api_0899bfbd10174716b86359dc/zip/Tehran.S02E06.1080p.WEB.x265.RMT.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Tehran.S02E06.1080p.WEB.x265.RMT.AlphaDL_split.z02",
+      "path": "jobs/api_0899bfbd10174716b86359dc/zip/Tehran.S02E06.1080p.WEB.x265.RMT.AlphaDL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Tehran.S02E06.1080p.WEB.x265.RMT.AlphaDL_split.z03",
+      "path": "jobs/api_0899bfbd10174716b86359dc/zip/Tehran.S02E06.1080p.WEB.x265.RMT.AlphaDL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Tehran.S02E06.1080p.WEB.x265.RMT.AlphaDL_split.z04",
+      "path": "jobs/api_0899bfbd10174716b86359dc/zip/Tehran.S02E06.1080p.WEB.x265.RMT.AlphaDL_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Tehran.S02E06.1080p.WEB.x265.RMT.AlphaDL_split.zip",
+      "path": "jobs/api_0899bfbd10174716b86359dc/zip/Tehran.S02E06.1080p.WEB.x265.RMT.AlphaDL_split.zip",
+      "size_bytes": 10007268
+    }
+  ]
+}
