@@ -1,0 +1,32 @@
+{
+  "job_id": "api_60c721fec943496ba39fc13d",
+  "mode": "zip_split",
+  "file_url": "https://free-dl2.myalphadl.com/wwk9Gir9-_jgSfAKw3btZg/Tehran.S02E04.720p.WEB-DL.Pahe.AlphaDL.mkv",
+  "suggested_filename": "Tehran.S02E04.720p.WEB-DL.Pahe.AlphaDL.mkv",
+  "total_size_bytes": 315102838,
+  "created_at_utc": "2026-05-14T12:28:55.126289+00:00",
+  "zip_folder": "jobs/api_60c721fec943496ba39fc13d/zip",
+  "zip_main_file": "Tehran.S02E04.720p.WEB-DL.Pahe.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "Tehran.S02E04.720p.WEB-DL.Pahe.AlphaDL_split.z01",
+      "path": "jobs/api_60c721fec943496ba39fc13d/zip/Tehran.S02E04.720p.WEB-DL.Pahe.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Tehran.S02E04.720p.WEB-DL.Pahe.AlphaDL_split.z02",
+      "path": "jobs/api_60c721fec943496ba39fc13d/zip/Tehran.S02E04.720p.WEB-DL.Pahe.AlphaDL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Tehran.S02E04.720p.WEB-DL.Pahe.AlphaDL_split.z03",
+      "path": "jobs/api_60c721fec943496ba39fc13d/zip/Tehran.S02E04.720p.WEB-DL.Pahe.AlphaDL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Tehran.S02E04.720p.WEB-DL.Pahe.AlphaDL_split.zip",
+      "path": "jobs/api_60c721fec943496ba39fc13d/zip/Tehran.S02E04.720p.WEB-DL.Pahe.AlphaDL_split.zip",
+      "size_bytes": 31987556
+    }
+  ]
+}
